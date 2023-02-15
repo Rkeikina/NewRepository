@@ -1,0 +1,150 @@
+INFO 13:57:46:178 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 13:57:46:184 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 14:01:43:957 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 14:01:43:963 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 14:19:17:323 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 14:19:17:330 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 14:22:24:764 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 14:22:24:770 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 14:22:47:425 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 14:22:47:431 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 17:46:17:226 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 17:46:17:232 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 17:53:06:043 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 17:53:06:049 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 17:54:31:238 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 17:54:31:244 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 17:56:31:725 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 17:56:31:731 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 17:58:37:052 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 17:58:37:057 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 18:02:08:372 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 18:02:08:378 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 18:42:58:943 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 18:42:58:950 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 18:48:36:617 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 18:48:36:624 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 18:50:17:616 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 18:50:17:624 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 18:53:53:866 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 18:53:53:873 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:06:32:976 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:06:32:982 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:09:37:152 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:09:37:158 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:13:42:362 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:13:42:369 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:14:37:483 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:14:37:490 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:15:38:954 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:15:38:961 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:17:10:184 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:17:10:191 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:18:56:947 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:18:56:954 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:21:16:028 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:21:16:034 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:23:40:781 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:23:40:788 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:28:04:230 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:28:04:238 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:29:53:914 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:29:53:921 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:31:28:881 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:31:28:887 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:35:55:855 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:35:55:861 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:38:05:566 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:38:05:572 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:40:21:730 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:40:21:736 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:41:49:154 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:41:49:161 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:43:07:323 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:43:07:330 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:44:22:192 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:44:22:198 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:44:58:918 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:44:58:925 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:49:43:540 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:49:43:546 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:51:07:711 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:51:07:717 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:51:45:145 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:51:45:153 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:53:52:274 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:53:52:281 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:54:40:242 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:54:40:248 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:55:27:729 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:55:27:735 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:59:02:050 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:59:02:057 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 19:59:34:602 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 19:59:34:608 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:01:00:909 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:01:00:915 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:02:06:109 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:02:06:114 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:02:36:505 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:02:36:510 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:03:41:422 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:03:41:428 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:04:11:954 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:04:11:959 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:17:02:987 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:17:02:994 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:17:51:635 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:17:51:641 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:18:47:291 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:18:47:297 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:19:33:736 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:19:33:743 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:21:02:782 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:21:02:788 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:21:36:084 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:21:36:089 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:26:54:526 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:26:54:532 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:28:01:170 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:28:01:177 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:28:53:046 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:28:53:053 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:29:57:934 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:29:57:940 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:31:55:876 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:31:55:883 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:33:47:605 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:33:47:612 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:34:51:443 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:34:51:450 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:35:27:870 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:35:27:876 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:36:23:654 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:36:23:661 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:38:08:952 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:38:08:958 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:39:27:314 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:39:27:320 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:40:02:685 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:40:02:691 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:40:37:695 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:40:37:702 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:41:34:761 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:41:34:768 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:42:08:980 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:42:08:987 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:44:10:720 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:44:10:727 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:45:56:124 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:45:56:130 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:46:29:787 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:46:29:793 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:47:01:913 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:47:01:921 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 20:48:10:810 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 20:48:10:816 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 22:12:48:926 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 22:12:48:934 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 22:14:25:946 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 22:14:25:952 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/dasha/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
